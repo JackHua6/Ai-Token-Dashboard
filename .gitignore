@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.tmp_*
+.DS_Store
+Thumbs.db
+trae-archive.json
